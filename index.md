@@ -1,3 +1,3 @@
 
 # Blog post
-* 20260703 [For better C interoperability](ext::c.md)
+* 20260703 [For better C interoperability](ext::c.html)
